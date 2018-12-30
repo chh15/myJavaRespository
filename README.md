@@ -1,7 +1,8 @@
 葫芦兄弟
 ===
-类结构
----
+![葫芦兄弟](https://github.com/chh15/myJavaRespository/blob/master/src/picture/333.gif)  
+![葫芦兄弟](https://github.com/chh15/myJavaRespository/blob/master/src/picture/cala_4.gif)  
+## 类结构  
 ![类](https://github.com/chh15/myJavaRespository/blob/master/src/picture/ClassDiagram1.png)  
 **所有生物体的基类**  
 **Live类**  
